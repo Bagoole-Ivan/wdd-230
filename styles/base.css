@@ -1,0 +1,40 @@
+header {
+    display: flex;
+    padding: 10px;
+    border-color: black;
+    background-color: aqua;
+    text-align: center;
+}
+#nav {
+    margin-top: 50px;
+    padding: 1em;
+    border-color: yellow;
+}
+body {
+    font-family: "Sofia", sans-serif;
+    text-align: center;
+    border-color: blue;
+}
+main {
+    font-family: "Sofia", sans-serif;
+    width: 100%;
+    text-align: center;
+    border-color: blue;
+    display: grid;
+    list-style-type: none;
+}
+.card {
+    font-family: "Sofia", sans-serif;
+    width: 100%;
+    text-align: center;
+    border-color: blue;
+    list-style-type: none;
+}
+#image {
+    width: 20%;
+    height: 20%;
+}
+#name {
+    margin-left: 20%;
+    margin-top: 8%;
+}
